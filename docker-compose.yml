@@ -1,1 +1,5 @@
-
+ldap-docker/
+│
+├── docker-compose.yml  # file, to define the container
+├── ldap/
+│   └── bootstrap.ldif  # file to define the LDAP data structure
